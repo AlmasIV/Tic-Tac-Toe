@@ -1,2 +1,2 @@
-# Console-Games
-My console game projects.
+# Tic-Tac-Toe
+My first console game.
